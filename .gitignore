@@ -4,7 +4,7 @@
 
 # Except
 !.gitignore
-!.config
+!.config/**
 !.config/terminator
 !.bash_aliases
 !.bashrc
