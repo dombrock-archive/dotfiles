@@ -3,7 +3,7 @@
 
 # Except
 !.gitignore
-!.config/terminator/config
+!.config/terminator
 !.bash_aliases
 !.bashrc
 !.gitconfig
