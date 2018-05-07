@@ -1,7 +1,5 @@
 # Ignore All
 *
-.config/*
-
 # Except
 !.gitignore
 !.config/
