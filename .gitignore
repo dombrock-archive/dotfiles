@@ -1,8 +1,10 @@
 # Ignore All
 *
+.config/*
 
 # Except
 !.gitignore
+!.config
 !.config/terminator
 !.bash_aliases
 !.bashrc
