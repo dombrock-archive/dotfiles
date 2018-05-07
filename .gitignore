@@ -2,9 +2,12 @@
 *
 # Except
 !.gitignore
+# Terminator
 !.config/
 !.config/terminator
 !.config/terminator/config
+# Bash
 !.bash_aliases
 !.bashrc
+# Git
 !.gitconfig
